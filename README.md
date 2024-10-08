@@ -1,5 +1,5 @@
-<h3 align="left">Oi! Bem vindo ao meu perfil! :]</h3>
-###
+<h1 align="left">Oi! Bem vindo ao meu perfil! :]</h1>
+
 <h3 align="left">Sobre mim</h3>
 
 ###
